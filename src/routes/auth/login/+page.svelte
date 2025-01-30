@@ -15,7 +15,7 @@
     }
 </script>
 
-<div class="min-h-screen flex items-center justify-center bg-pink-50">
+<div class="min-h-screen flex items-center justify-center">
     <Card.Root class="w-[400px]">
         <Card.Header>
             <Card.Title class="text-2xl font-bold text-center">Welcome back</Card.Title>
